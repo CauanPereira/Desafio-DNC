@@ -4,8 +4,8 @@ Este projeto é um desafio do curso de desenvolvimento da DNC e tem como objetiv
 
 ## Funcionalidades
 
-- *Conteúdo informativo*: O site apresenta textos e imagens sobre os serviços de arquitetura, com o objetivo de validar e mostrar a qualidade dos serviços oferecidos.
-- *Formulário de Contato*: No final da página, há um formulário simples, onde os visitantes podem inserir seu nome e e-mail para obter mais informações ou demonstrar interesse no serviço.
+- _Conteúdo informativo_: O site apresenta textos e imagens sobre os serviços de arquitetura, com o objetivo de validar e mostrar a qualidade dos serviços oferecidos.
+- _Formulário de Contato_: No final da página, há um formulário simples, onde os visitantes podem inserir seu nome e e-mail para obter mais informações ou demonstrar interesse no serviço.
 
 ## Integração de Captura de Dados
 
@@ -17,13 +17,13 @@ O site está hospedado na plataforma Netlify, que facilita a publicação de pro
 
 ## Tecnologias Utilizadas
 
-- *HTML* e *CSS*: Para estrutura e estilização do site.
-- *Netlify*: Plataforma de hospedagem onde o site foi publicado.
-- *SheetMonkey*: Ferramenta utilizada para coletar e armazenar os dados dos usuários preenchidos no formulário.
+- _HTML_ e _CSS_: Para estrutura e estilização do site.
+- _Netlify_: Plataforma de hospedagem onde o site foi publicado.
+- _SheetMonkey_: Ferramenta utilizada para coletar e armazenar os dados dos usuários preenchidos no formulário.
 
 ## Como Acessar o Site
 
-O site está disponível online através da hospedagem no Netlify. Para ver o projeto em funcionamento, basta acessar o link disponível na página do repositório.
+O site está disponível online através da hospedagem no Netlify. Para ver o projeto em funcionamento, basta acessar https://arquiteturas.netlify.app/.
 
 ---
 

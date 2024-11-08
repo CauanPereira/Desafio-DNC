@@ -123,6 +123,7 @@ button{
     border: 0px;
     border-radius: 5px;
     color : #FFFFFF;
-    font-weight: bolder
+    font-weight: bolder;
+    cursor: pointer 
 
 }
