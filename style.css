@@ -28,6 +28,7 @@
 }
 
 #Menu-Informacional {
+
     background-color:#F9F9F9;
     display: grid;
     grid-auto-flow: column;
@@ -36,6 +37,7 @@
 }
 
 .Item {
+    
     display: flex;
     flex-direction: column; 
     align-items: center; 
