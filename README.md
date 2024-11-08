@@ -21,10 +21,13 @@ O site está hospedado na plataforma Netlify, que facilita a publicação de pro
 - _Netlify_: Plataforma de hospedagem onde o site foi publicado.
 - _SheetMonkey_: Ferramenta utilizada para coletar e armazenar os dados dos usuários preenchidos no formulário.
 
-## Como Acessar o Site
+## Como Acessar o Site 
 
 O site está disponível online através da hospedagem no Netlify. Para ver o projeto em funcionamento, basta acessar https://arquiteturas.netlify.app/.
 
----
+## Como Acessar a Planilha de Dados
+
+A planilha que armazena os dados cadastrados pelos usuariosz foi criada pela plataforma [SheetMonkey] e para visualização dessa planilha, basta acessar: 
+https://docs.google.com/spreadsheets/d/1FBPR3PuGCsz00XVjv9y0yQHyniyLD84FRAYOZpXT4Y4/edit?gid=0#gid=0
 
 Este projeto faz parte do aprendizado prático no curso da DNC e foi desenvolvido com o intuito de oferecer uma experiência completa de criação e hospedagem de um site, além de explorar a integração com ferramentas externas para captura e análise de dados.
