@@ -30,4 +30,6 @@ O site está disponível online através da hospedagem no Netlify. Para ver o pr
 A planilha que armazena os dados cadastrados pelos usuariosz foi criada pela plataforma [SheetMonkey] e para visualização dessa planilha, basta acessar: 
 https://docs.google.com/spreadsheets/d/1FBPR3PuGCsz00XVjv9y0yQHyniyLD84FRAYOZpXT4Y4/edit?gid=0#gid=0
 
+## Conclusão
+
 Este projeto faz parte do aprendizado prático no curso da DNC e foi desenvolvido com o intuito de oferecer uma experiência completa de criação e hospedagem de um site, além de explorar a integração com ferramentas externas para captura e análise de dados.
