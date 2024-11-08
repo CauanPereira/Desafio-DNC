@@ -1,0 +1,128 @@
+*{
+
+    margin: 0px;
+    font-family: 'inter';
+}
+
+#Menu{
+
+    background-color: #303030;
+    color: #ffff;
+    padding: 25px;
+    height: 210px;
+
+}
+
+#Menu-Titulo{
+
+    
+    margin-left: 10px;
+    margin-top: 90px;
+    
+}
+
+#Menu-Paragrafo{
+
+    margin-left: 10px;
+
+}
+
+#Menu-Informacional {
+    background-color:#F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding:20px;
+}
+
+.Item {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    margin: 20px;
+}
+
+.Valores {
+   
+    margin-top: 10px;
+    margin-right: 165px;
+}
+
+#paragrafo-2{
+
+    margin-left: 28px;
+}
+#paragrafo-3{
+
+    margin-right: 30px;
+}
+
+#Anuncio{
+
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 50px; 
+    
+}
+
+
+#Titulo-Imagem{
+
+    margin-top: 140px;
+    margin-left: 50px;
+}
+
+#Paragrafo-Imagem{
+
+    margin-left: 50px;
+}
+
+#Imagem-Anuncio{
+
+    width: 400px; 
+    height: auto;
+    margin-left: 10px; 
+    cursor: pointer;
+}
+
+#Formulario{
+
+    background-color: #303030;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+
+}
+
+#Titulo-Formulario{
+    
+    color: #FFFFFF;
+    margin: 20px; 
+    
+}
+
+input{
+
+    width: 280px;
+    height: 38px;
+    background-color:#FFFFFF;
+    margin: 20px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+    
+}
+
+button{
+
+    width: 150px;
+    height: 40px;
+    background-color: #C07212;
+    border: 0px;
+    border-radius: 5px;
+    color : #FFFFFF;
+    font-weight: bolder
+
+}
+    
